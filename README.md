@@ -1,0 +1,2 @@
+# Contol_DC_Motor_with_Arduino
+Instrumentation
